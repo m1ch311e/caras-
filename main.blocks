@@ -1,7 +1,13 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="function_definition" id="`)c@xqywhVtF-bnI*uL(" x="0" y="0"><mutation name="Feliz" functionid="4pghbJJq[}}L#dx(2GX1"/><field name="function_name">Feliz</field><statement name="STACK"><block type="device_show_leds" id="RNLdXl6.8Hj3Es1LuB:|"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="function_definition" id="`)c@xqywhVtF-bnI*uL(" x="0" y="0"><mutation name="Feliz" functionid="4pghbJJq[}}L#dx(2GX1"/><field name="function_name">Feliz</field><statement name="STACK"><block type="device_show_leds" id="D|6%e%hTwB9]4eG3t|:0"><field name="LEDS">`
         . # . # . 
         . # . # . 
         . . . . . 
         # . . . # 
         . # # # .
+        `</field></block></statement></block><block type="function_definition" id="]qa{axXE-0!Ap6y]3L$G" x="291" y="35"><mutation name="truiste" functionid="WXbO5/$V]W3,+ZF`wl8Y"/><field name="function_name">truiste</field><statement name="STACK"><block type="device_show_leds" id=",5f7w`_Kho4TY0C2P}7-"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        # . . . #
         `</field></block></statement></block></xml>

@@ -7,3 +7,12 @@ function Feliz () {
         . # # # .
         `)
 }
+function truiste () {
+    basic.showLeds(`
+        . . . . .
+        . # . # .
+        . . . . .
+        . # # # .
+        # . . . #
+        `)
+}

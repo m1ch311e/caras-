@@ -1,0 +1,9 @@
+function Feliz () {
+    basic.showLeds(`
+        . # . # .
+        . # . # .
+        . . . . .
+        # . . . #
+        . # # # .
+        `)
+}
